@@ -1,7 +1,9 @@
 available: false
 id: 0
 mainset:
-- names: []
+- names:
+  - name: dd
+    probability: 1
 name: 'New Townname #0'
 source: ''
 subsets: []
